@@ -1,4 +1,4 @@
-# Hi, I'm Vijay Kumar Kachavi 👋
+# Hi, I'm VijayKumar Kachavi 👋
 
 ## Financial Reporting Analyst | Finance Data Analytics | Power BI | Python | SQL
 
